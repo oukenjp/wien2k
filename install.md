@@ -1,5 +1,4 @@
-NECESSARY software (tcsh, fortran compiler (ifort or gfortran), FFTW3, make, bc)
-
+NECESSARY software (tcsh, fortran compiler (ifort or gfortran), FFTW3, make, bc)\
 tar -xvf wien2k XX.tar
 check_minimal_software_requirements.sh
 gunzip *.gz
