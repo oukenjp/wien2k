@@ -7,4 +7,4 @@ chmod +x ./expand_lapw                                      \
 ./siteconfig_lapw                                           \
 ./userconfig_lapw                                           \
 export $SCRATCH=./                                          \
-export $WIENROOT=[PATH_TO_WIEN2K]                           \
+export $WIENROOT=[PATH_TO_WIEN2K]                           
